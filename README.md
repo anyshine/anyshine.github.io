@@ -1,2 +1,1 @@
-# anyshine.github.io
-My Pages
+# This is my github pages.
